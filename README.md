@@ -1,4 +1,4 @@
-# 👋 Hi, I'm StackSorcerer13
+# 👋 Hi, I'm tylerkim13
 
 Embedded systems engineer playing with IoT and sensors
 
